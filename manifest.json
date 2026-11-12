@@ -1,0 +1,152 @@
+[
+  {
+    "file": "v45/ahlcg40-config.txt",
+    "bytes": 140743,
+    "sha256": "36b8570e5f54ed9b02034fbacf081663604dde7271a8e512ab65d0dcf17429ba"
+  },
+  {
+    "file": "v45/ahlcg39-scenario-1-0.zip",
+    "bytes": 67109096,
+    "sha256": "4509f20941fd00e8bb56df4a67fbcb930f08a13b742e38072acbfaf023672a6f"
+  },
+  {
+    "file": "v45/ahlcg39-scenario-2-0.zip",
+    "bytes": 67109096,
+    "sha256": "a2d9d7b1d2c757de201c15ba2f07f0a47ba1cf9e8feff23a80663bbad57d275b"
+  },
+  {
+    "file": "v45/ahlcg39-scenario-3-0.zip",
+    "bytes": 89478744,
+    "sha256": "80f83d6cb0d3d15713d3a84d03be816a39b88aeb495826dd5f13302e07e21b0c"
+  },
+  {
+    "file": "v45/ahlcg39-book-00.zip",
+    "bytes": 11184976,
+    "sha256": "2874e091ba19d0b734cf0f19c3e924893ee5a4ff8d30c27eff3d2ce4917e80b9"
+  },
+  {
+    "file": "v45/ahlcg39-book-01.zip",
+    "bytes": 11184976,
+    "sha256": "b0a438b01498faaeead5e4122840ea9ffa9eebf2b50f8eec32df2f3367b8fddc"
+  },
+  {
+    "file": "v45/ahlcg39-book-02.zip",
+    "bytes": 11184976,
+    "sha256": "49fca2f26932de4266afdbf5b45d6196689fedc7916889c8f2ea32cf0a00c5ce"
+  },
+  {
+    "file": "v45/ahlcg39-book-03.zip",
+    "bytes": 11184976,
+    "sha256": "9dc10c7479b9cb568387b68f655676260f827eab484b4becbae43635cc1eada6"
+  },
+  {
+    "file": "v45/ahlcg39-book-04.zip",
+    "bytes": 11184976,
+    "sha256": "f3a253f70cd2596e9a5450a057af2f9b9a135b69b2a4e8e52bc81acfad160ddf"
+  },
+  {
+    "file": "v45/ahlcg39-book-05.zip",
+    "bytes": 11184976,
+    "sha256": "4f3bac48368398f6dfa808af975bd099a6804b829b649c5c0300b719f63377c9"
+  },
+  {
+    "file": "v45/ahlcg39-book-06.zip",
+    "bytes": 11184976,
+    "sha256": "b9a9555eb52e76bddd25e74ac640ff86876b4ce7e066766765a0c68aeb6cf02c"
+  },
+  {
+    "file": "v45/ahlcg39-book-07.zip",
+    "bytes": 11184976,
+    "sha256": "670ef1b183e285ec7951d4ac22fe7eb5f101bcf26ddd3bff76bbf78eb321a1c5"
+  },
+  {
+    "file": "v45/ahlcg39-book-08.zip",
+    "bytes": 11184976,
+    "sha256": "5974086a6589f45c5af78bc47a0ecaa48a00b9cbeb908106d7805187f5a1cf2f"
+  },
+  {
+    "file": "v45/ahlcg39-book-09.zip",
+    "bytes": 11184976,
+    "sha256": "b243cf66251de9a309dad78d08a77402d8d35efd0e721a317381b2242d4b6bc0"
+  },
+  {
+    "file": "v45/ahlcg39-book-10.zip",
+    "bytes": 11184976,
+    "sha256": "54437be83055a7e9d7a478d032e6c5f8e0e26ce29afa30bbc6b4081afabb0140"
+  },
+  {
+    "file": "v45/ahlcg39-book-11.zip",
+    "bytes": 11184976,
+    "sha256": "b120b8113a411a53370cb7772162136ce81eba20739bf709de2d20f088664361"
+  },
+  {
+    "file": "v45/ahlcg39-book-12.zip",
+    "bytes": 11184976,
+    "sha256": "2a38e4e596549006741773e5f17c08d3bc552df3c3029fc9fc8dfdc9c9bb0a3e"
+  },
+  {
+    "file": "v45/ahlcg39-book-13.zip",
+    "bytes": 11184976,
+    "sha256": "1b37e574651349e028a180e392b9a9a93a032a7f2129c75d31811b42f8972bf2"
+  },
+  {
+    "file": "v45/ahlcg39-book-14.zip",
+    "bytes": 11184976,
+    "sha256": "6f34472835eb81c372c64d2e0e3df131b0521573c976060ec0c73bf89c0fdf98"
+  },
+  {
+    "file": "v45/ahlcg39-book-15.zip",
+    "bytes": 11184976,
+    "sha256": "f664ff112fbb964bcd09493b0fa8e2d4bb062b456b13a4d8a736a37d02d18aaa"
+  },
+  {
+    "file": "v45/ahlcg39-book-16.zip",
+    "bytes": 11184976,
+    "sha256": "394c42f48f252bc50cfebceca23024290fe820ee5d470ea3f002c23c0a879a2d"
+  },
+  {
+    "file": "v45/ahlcg39-book-17.zip",
+    "bytes": 11184976,
+    "sha256": "71775b992e70fb63256eba26188b7c22a96fd431c711313a865369ae32fb7ab4"
+  },
+  {
+    "file": "v45/ahlcg39-book-18.zip",
+    "bytes": 11184976,
+    "sha256": "c475cad1eeeb7a7d1231164df83e7bf7b3e8cf6e1fe6cdf1fba66998b649a84a"
+  },
+  {
+    "file": "v45/ahlcg39-book-19.zip",
+    "bytes": 11184976,
+    "sha256": "316b0fd889fb22361f11b0d676d3d90aa38098a2639fa886f0cfac4f6144d346"
+  },
+  {
+    "file": "v45/ahlcg39-book-20.zip",
+    "bytes": 11184976,
+    "sha256": "3a31f56d7caa89bd16e19d197167abcba7108b68742498c6431b5aa9e5048b4e"
+  },
+  {
+    "file": "v45/ahlcg39-book-21.zip",
+    "bytes": 11184976,
+    "sha256": "2b89b457796e97d7530ab4ae72a0a7a4b5cb853c6422d690fb5eb9c0a812c856"
+  },
+  {
+    "file": "v45/ahlcg39-book-22.zip",
+    "bytes": 11184976,
+    "sha256": "93d91a3978fac11a6214346ec84a9089a19d99edee0e7329b1867aa285614ee7"
+  },
+  {
+    "file": "v45/ahlcg39-cover-0.zip",
+    "bytes": 5592576,
+    "sha256": "974c051813097aac3d829a7b805832312b21a8eb42a88af4a60e0fc3fe5e1823"
+  },
+  {
+    "file": "v45/ahlcg39-cover-1.zip",
+    "bytes": 5592576,
+    "sha256": "5b77e154015f415758e72813b9eb26679e035a38654048c352553fe144b4efb2"
+  },
+  {
+    "file": "v45/ahlcg39-cover-2.zip",
+    "bytes": 5592576,
+    "sha256": "5c8fcb56caf859df6dab022780c73f16d1cbda788797b303a9a2ceb78098696c"
+  }
+]
